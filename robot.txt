@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://passcol.github.io/nagahitam/sitemap.xml
